@@ -35,7 +35,7 @@ public class MainClass {
         } else if (age <= 18) {
             System.out.println("Hoc pho thong");
         }
-        
+        // khoong phai lo
     }
     
 }
